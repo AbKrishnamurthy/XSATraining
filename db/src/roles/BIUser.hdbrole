@@ -1,0 +1,12 @@
+{
+ "role":{
+   "name": "BIUser",
+   "schema_roles": [
+      {
+        "names":[
+          "Sales"
+          ]
+       }
+     ]
+    }
+  }

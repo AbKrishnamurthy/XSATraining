@@ -1,0 +1,17 @@
+{
+	"role": {
+		"name": "Sales",
+    "object_privileges": [
+       {"name":"XSATraining.db.hanamodels::ZCV_TEST", "type": "VIEW", "privileges": ["SELECT"]}
+			],
+	"schema_analytic_privileges": [
+	{
+			"privileges": [
+			"XSATraining.db.hanamodels::Test"
+			]
+		}
+	]
+	  
+
+	}
+}

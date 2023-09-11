@@ -1,0 +1,10 @@
+{
+	"role": {
+		"name": "default_training_role",
+		"schema_analytic_privileges": [{
+			"privileges": [
+			"XSATraining.db.hanamodels::Test_unrestricted"
+			]
+		}]
+	}
+}

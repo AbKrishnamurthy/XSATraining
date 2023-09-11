@@ -1,0 +1,34 @@
+{
+"BSEG": {
+    "target": {
+      "object": "BSEG",
+      "schema": "SAPABAP1"
+    }
+  },
+  "BKPF": {
+    "target": {
+      "object": "BKPF",
+      "schema": "SAPABAP1"
+    }
+  },
+  "VBAK": {
+    "target": {
+      "object": "VBAK",
+      "schema": "SAPABAP1"
+    }
+  },
+  "VBAP": {
+    "target": {
+      "object": "VBAP",
+      "schema": "SAPABAP1"
+    }
+  },
+  
+   "SYNONYM_T001": {
+    "target": {
+      "object": "T001",
+      "schema": "SAPABAP1"
+    }
+  }
+ 
+}

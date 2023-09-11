@@ -1,0 +1,4 @@
+STRUCTURED PRIVILEGE "XSATraining.db.hanamodels::Test"
+FOR SELECT ON  "XSATraining.db.hanamodels::ZCV_TEST"
+WHERE ("VKORG" in (select "CompanyCode" from "XSATraining.db.TempTable::ZUSER_PRIVILEGES" where "User" = session_user));
+

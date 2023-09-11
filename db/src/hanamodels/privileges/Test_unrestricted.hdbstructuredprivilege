@@ -1,0 +1,4 @@
+STRUCTURED PRIVILEGE "XSATraining.db.hanamodels::Test_unrestricted"
+FOR SELECT ON  "XSATraining.db.hanamodels::ZCV_TEST"
+WHERE 1=1
+

@@ -1,0 +1,6 @@
+COLUMN TABLE "XSATraining.db.TempTable::ZUSER_PRIVILEGES" 
+(
+   "CompanyCode" NVARCHAR(4),
+   "User" NVARCHAR(20)
+   
+)
